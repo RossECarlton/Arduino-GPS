@@ -1,0 +1,1 @@
+This code establises a serial connection (9600) to GPS modules. It utilizes a few popular arduino libraries and passes data to the RX and TX pins of the arduino microprocessor. Ensure short and soild electrical connectons for best results. The serial rate must match that of the GPS module which is typically 9600 but could be different. 
